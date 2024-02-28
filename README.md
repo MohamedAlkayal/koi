@@ -1,6 +1,6 @@
 # koimports
 
-This template should help get you started developing with Vue 3 in Vite.
+This is undergoing project for an E-commerce website using vue js 
 
 ## Recommended IDE Setup
 
